@@ -40,6 +40,14 @@ Wenn Sarah in Chatnachrichten "Wiedervorlage" schreibt, wird der Punkt hier als 
   - Collaborator-Rechte vergeben (falls gewünscht)
   - Kurze Regel: wer ändert was, wo
 
+- [ ] **Teamregel: Serverzugriff ohne Session-Konflikte (Sarah + Torsten)**
+  - Ziel: Lock-Fehler ("session file locked") vermeiden
+  - Regel 1: Immer nur **eine Person aktiv an OpenClaw-Session-/Agenten-Themen** gleichzeitig
+  - Regel 2: Vor Servereingriff kurz im Chat ankündigen: „Ich arbeite jetzt am Server (ca. X Min)"
+  - Regel 3: Währenddessen keine parallelen Neustarts/Stopps/Config-Edits durch die andere Person
+  - Regel 4: Nach Abschluss kurze Entwarnung posten: „Server wieder frei"
+  - Regel 5: Bei Lock-Fehler zuerst Prozess prüfen, dann nur verwaiste `.lock` entfernen
+
 ## Vorlage für neue Einträge
 - [ ] Titel
   - Kontext:
