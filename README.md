@@ -3,8 +3,19 @@
 ## Zweck
 Hier sammeln wir offene Punkte, Follow-ups und Aufgaben, die später wieder aufgenommen werden sollen.
 
+## Struktur
+Wiedervorlagen sind nach **Themenbereichen** in Ordnern organisiert, innerhalb der Ordner nach **Datum** sortiert.
+
+### Ordner
+- `01_ila/` → ILA-Projekt (Agenten-Pilot, Design-Entlastung)
+- `02_setup-infrastruktur/` → Server, GitHub, Signal, Modell-Konfiguration
+- `03_agenten-architektur/` → Agenten-Aufbau, Subagenten, Rollen
+- `04_modell-anbindung/` → Claude, OpenRouter, Modellwahl
+- `05_dokumentation/` → Briefings, Standards, Anleitungen
+- `99_allgemein/` → Sonstiges
+
 ## Regel
-Wenn Sarah in Chatnachrichten "Wiedervorlage" schreibt, wird der Punkt hier als neuer Eintrag ergänzt.
+Wenn Sarah in Chatnachrichten "Wiedervorlage" schreibt, wird der Punkt hier als neuer Eintrag im passenden Ordner ergänzt.
 
 ## Wiedervorlage für Projekt-Umsetzung (Stand 2026-03-18)
 
