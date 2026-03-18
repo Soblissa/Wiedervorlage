@@ -6,26 +6,39 @@ Hier sammeln wir offene Punkte, Follow-ups und Aufgaben, die später wieder aufg
 ## Regel
 Wenn Sarah in Chatnachrichten "Wiedervorlage" schreibt, wird der Punkt hier als neuer Eintrag ergänzt.
 
-## Offene Punkte aus dem bisherigen Chat (2026-03-18)
+## Wiedervorlage für Projekt-Umsetzung (Stand 2026-03-18)
 
-- [ ] **Server-Nutzung klären (Basiswissen):**
-  - Was bedeutet "lokal" im OpenClaw-Kontext?
-  - Wo liegen Dateien auf dem Server?
-  - Wie greift Sarah praktisch darauf zu?
-  - Welche sicheren Wege gibt es für Datei-/Repo-Workflow?
+> Diese Liste ist der Umsetzungs-Backlog für die Projekte aus dem MASTER-SETUP-BRIEFING.
 
-- [ ] **GitHub-Workflow für Sarah aufsetzen (anfängerfreundlich):**
-  - Neues GitHub-Repo "Wiedervorlage" erstellen
-  - Datei(en) dort ablegen, damit Sarah direkt im Browser ausfüllen kann
-  - Standardprozess definieren: wie neue Punkte aus dem Chat in dieses Repo kommen
+- [ ] **Setup-Blueprint finalisieren (Endzustand + Architektur)**
+  - Sarah füllt das Briefing vollständig aus
+  - Turyia erstellt daraus Architektur, Phasenplan und Prioritäten
+  - Ergebnis: klares Zielbild + konkrete Umsetzungsreihenfolge
 
-- [ ] **MASTER-SETUP-BRIEFING in GitHub verfügbar machen:**
-  - Datei nach GitHub übertragen
-  - Falls gewünscht Rechte für Torsten vorbereiten (mit Username + Rolle)
+- [ ] **GitHub-Arbeitsstruktur stabil machen**
+  - Repos und Dateien konsistent halten (`Wiedervorlage`, `master_set_up_briefing`)
+  - Einfache Arbeitsroutine festlegen (Bearbeiten, Commit, Review)
+  - Optional: kurze Anleitung direkt im Repo für den Alltag
 
-- [ ] **Zielbild-/Setup-Workshop durchführen:**
-  - Briefing gemeinsam ausfüllen
-  - Daraus bestes Setup für Modell-Anbindung + Agenten-Armee ableiten
+- [ ] **Server- und Workflow-Basiswissen aufbauen**
+  - Klären: lokal vs. Server vs. Repo (in Alltagssprache)
+  - Praktischer Mini-Workflow mit 1-2 Übungen
+  - Ziel: Sarah kann sicher verstehen, wo Dateien liegen und wie Änderungen landen
+
+- [ ] **Modell-Anbindung vorbereiten (2. Modell integrieren)**
+  - Anforderungen aus Briefing ableiten
+  - Auswahlkriterien und Entscheidungsgrundlage erstellen
+  - Umsetzung nach Abschluss des Setup-Blueprints
+
+- [ ] **Agenten-Armee planen und aufsetzen**
+  - Rollen definieren (z. B. Recherche, Technik, Organisation)
+  - Verantwortlichkeiten + Übergaben festlegen
+  - Schrittweise Inbetriebnahme nach stabiler Modell-Anbindung
+
+- [ ] **Kollaboration / Rechte sauber aufsetzen (optional mit Torsten)**
+  - Benötigte Zugänge und Rechte je Repo klären
+  - Collaborator-Rechte vergeben (falls gewünscht)
+  - Kurze Regel: wer ändert was, wo
 
 ## Vorlage für neue Einträge
 - [ ] Titel
